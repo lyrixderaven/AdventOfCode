@@ -1,6 +1,6 @@
 # AdventOfCode: Python
 
-A few python scripts that solve the 2015 Advent of Code problems.
+A few python scripts that solve the [2015 Advent of Code](http://adventofcode.com/) problems.
 
 Will see if I get to update them all the way...
 
