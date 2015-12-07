@@ -1,0 +1,2048 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bad",
+				"bad_strings"
+			],
+			[
+				"vowe",
+				"vowel_counter"
+			],
+			[
+				"I",
+				"IVCBCongress"
+			],
+			[
+				"round",
+				"round_all"
+			],
+			[
+				"ref_",
+				"ref_unit"
+			],
+			[
+				"total_",
+				"total_kf_label"
+			],
+			[
+				"tot",
+				"total_kf_label"
+			],
+			[
+				"ref_u",
+				"ref_util_label"
+			],
+			[
+				"ref",
+				"ref_util_label"
+			],
+			[
+				"ve",
+				"vehicles_cat_exists"
+			],
+			[
+				"ca",
+				"category	(report.py)"
+			],
+			[
+				"fix",
+				"fixture_name"
+			],
+			[
+				"un",
+				"units"
+			],
+			[
+				"col",
+				"columns	(units.py)"
+			],
+			[
+				"Loca",
+				"Localizer"
+			],
+			[
+				"piv",
+				"pivot_value"
+			],
+			[
+				"local",
+				"localize_all_numbers"
+			],
+			[
+				"en_c",
+				"en_costs_report"
+			],
+			[
+				"consu",
+				"consumption_label"
+			],
+			[
+				"def_fa",
+				"def_factor"
+			],
+			[
+				"locali",
+				"localize_all_numbers	(units.py)"
+			],
+			[
+				"loca",
+				"locale_name"
+			],
+			[
+				"roun",
+				"round_all"
+			],
+			[
+				"not",
+				"notnull	(energyconsumption.py)"
+			],
+			[
+				"format",
+				"format_decimal"
+			],
+			[
+				"num",
+				"numbers	module"
+			],
+			[
+				"Sch",
+				"SchemaNode"
+			],
+			[
+				"page",
+				"page_source	function"
+			],
+			[
+				"back",
+				"backup_db_exists"
+			],
+			[
+				"en_data",
+				"en_data_table"
+			],
+			[
+				"EC",
+				"ECTextInputWidget	(textinput.py)"
+			],
+			[
+				"Templ",
+				"TemplateAPI"
+			],
+			[
+				"trans",
+				"translations	(__init__.py)"
+			],
+			[
+				"tra",
+				"translations	(__init__.py)"
+			],
+			[
+				"exce",
+				"except	(textinput.py)"
+			],
+			[
+				"consum",
+				"consumption_periods"
+			],
+			[
+				"all_",
+				"all_obj_meters"
+			],
+			[
+				"report_",
+				"report_icon"
+			],
+			[
+				"Ener",
+				"EnergyCarrier"
+			],
+			[
+				"energY_ca",
+				"energy_carriers_real"
+			],
+			[
+				"threa",
+				"threadID"
+			],
+			[
+				"total",
+				"total_frame"
+			],
+			[
+				"ser",
+				"series"
+			],
+			[
+				"gg_",
+				"gg_comparison_report"
+			],
+			[
+				"GG",
+				"GGComparisonReport"
+			],
+			[
+				"Date",
+				"DateInfoObjectZoneWidget"
+			],
+			[
+				"ligth",
+				"lightbox_title"
+			],
+			[
+				"light",
+				"lightbox"
+			],
+			[
+				"ret",
+				"ret_struct"
+			],
+			[
+				"choice",
+				"choice_edit"
+			],
+			[
+				"choice_",
+				"choice_copy"
+			],
+			[
+				"repo",
+				"reports_response"
+			],
+			[
+				"cache",
+				"cache_value"
+			],
+			[
+				"cac",
+				"cache_key"
+			],
+			[
+				"start",
+				"start_date"
+			],
+			[
+				"set",
+				"set_cache"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"cach",
+				"cache_value"
+			],
+			[
+				"missing",
+				"missing_data"
+			],
+			[
+				"cached",
+				"cached_value"
+			],
+			[
+				"reif",
+				"reify"
+			],
+			[
+				"list_",
+				"list_groups_raw"
+			],
+			[
+				"carr",
+				"carrier_query_result"
+			],
+			[
+				"is_",
+				"is_numeric"
+			],
+			[
+				"carrier",
+				"carrier_appstruct"
+			],
+			[
+				"energ",
+				"energy_carrier"
+			],
+			[
+				"mix_per",
+				"mix_period_type"
+			],
+			[
+				"clim",
+				"climate_correction_factor_series"
+			],
+			[
+				"climate",
+				"climate_data"
+			],
+			[
+				"cli",
+				"climate_station"
+			],
+			[
+				"serv",
+				"service_life_end"
+			],
+			[
+				"RED",
+				"REDIS_PORT"
+			],
+			[
+				"cache_",
+				"cache_port"
+			],
+			[
+				"REDI",
+				"REDIS_PORT"
+			],
+			[
+				"insta",
+				"instantiates"
+			],
+			[
+				"REDIS_",
+				"REDIS_PORT"
+			],
+			[
+				"prop",
+				"property	New Property"
+			],
+			[
+				"se",
+				"session"
+			],
+			[
+				"public",
+				"public-lighting"
+			],
+			[
+				"Keyfigure",
+				"KeyFigureComparisonReport"
+			],
+			[
+				"cmo",
+				"comp_data"
+			],
+			[
+				"keyfig",
+				"keyfigures"
+			],
+			[
+				"key",
+				"key_series"
+			],
+			[
+				"share",
+				"share_of_renewables"
+			],
+			[
+				"proper",
+				"property	New Property"
+			],
+			[
+				"ther",
+				"thermal"
+			],
+			[
+				"Ther",
+				"ThermalProductionSystem"
+			],
+			[
+				"Ele",
+				"ElectricityMeter"
+			],
+			[
+				"defa",
+				"default_el_mix"
+			],
+			[
+				"default_",
+				"default_gas_mix"
+			],
+			[
+				"cons_d",
+				"cons_districtheating_recind"
+			],
+			[
+				"di",
+				"districtheating_recind_share"
+			],
+			[
+				"sha",
+				"share_of_recind"
+			],
+			[
+				"same",
+				"same_attributes"
+			],
+			[
+				"dry",
+				"dryrun"
+			],
+			[
+				"REDIS",
+				"REDIS_DB"
+			],
+			[
+				"DA",
+				"DataSeries"
+			],
+			[
+				"ener",
+				"energyconsumption	import"
+			],
+			[
+				"kw",
+				"kWh_per_m2	class"
+			],
+			[
+				"no_",
+				"no_consumptions_ids"
+			],
+			[
+				"D",
+				"Decimal('7"
+			],
+			[
+				"grams_p",
+				"grams_per_annum"
+			],
+			[
+				"grams_",
+				"grams_per_m2"
+			],
+			[
+				"sca",
+				"scale_units"
+			],
+			[
+				"ELec",
+				"ElectricityMeter	class"
+			],
+			[
+				"distri",
+				"district_heating_mixes"
+			],
+			[
+				"Distri",
+				"DistrictHeatingMix"
+			],
+			[
+				"ELer",
+				"ElectricityMix	class"
+			],
+			[
+				"DEFAUL",
+				"DEFAULT_EL_MIX_DATA"
+			],
+			[
+				"DEFAU",
+				"DEFAULT_EL_MIX_DATA"
+			],
+			[
+				"dh_",
+				"dh_mixes"
+			],
+			[
+				"obj",
+				"object_data"
+			],
+			[
+				"create_a",
+				"create_all_mixes"
+			],
+			[
+				"subq_conp",
+				"subq_consumption_periods_meters"
+			],
+			[
+				"Electr",
+				"ElectricityMix"
+			],
+			[
+				"mix_",
+				"mix_type"
+			],
+			[
+				"all",
+				"all_series"
+			],
+			[
+				"pro",
+				"production"
+			],
+			[
+				"o",
+				"objects"
+			],
+			[
+				"meters_missing_electr",
+				"meters_missing_electricity_consumptions"
+			],
+			[
+				"Therma",
+				"ThermalProductionSystem"
+			],
+			[
+				"Water",
+				"WaterMeter"
+			],
+			[
+				"meter_",
+				"meter_class"
+			],
+			[
+				"PRE",
+				"PREREQUISITES"
+			],
+			[
+				"subq",
+				"subq_consumption_periods_meters"
+			],
+			[
+				"object",
+				"object_consumptions"
+			],
+			[
+				"last",
+				"last_consumption"
+			],
+			[
+				"con",
+				"condition"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "\nclass the_grid:\n\n    def parse_inst(self, inst):\n        if 'turn on' in inst:\n            inst_clean = inst.replace('turn on ','').replace(' through ', ':')\n        if 'turn off' in inst:\n            inst_clean = inst.replace('turn off ','').replace(' through ', ':')\n        if 'toggle' in inst:\n            inst_clean = inst.replace('toogle ','').replace(' through ', ':')\n\n\n    def extract_coordinates(self,string):\n        x1 = string.split(':')[0].split(',')[0]\n        y1 = string.split(':')[0].split(',')[1]\n\n        x2 = string.split(':')[1].split(',')[0]\n        y2 = string.split(':')[1].split(',')[1]\n\n        return (x1,y1,x2,y2)\n    \n    def on(self, string):\n        (x1,y1,x2,y2) = self.extract_coordinates(string)\n            \n    def off(self, string):\n        (x1,y1,x2,y2) = self.extract_coordinates(string)\n\n    def toggle(self, string):\n        (x1,y1,x2,y2) = self.extract_coordinates(string)\n\n    \n\n\n\ninstructions = [\n'turn on 489,959 through 759,964',\n'turn off 820,516 through 871,914',\n'turn off 427,423 through 929,502',\n'turn on 774,14 through 977,877',\n'turn on 410,146 through 864,337',\n'turn on 931,331 through 939,812',\n'turn off 756,53 through 923,339',\n'turn off 313,787 through 545,979',\n'turn off 12,823 through 102,934',\n'toggle 756,965 through 812,992',\n'turn off 743,684 through 789,958',\n'toggle 120,314 through 745,489',\n'toggle 692,845 through 866,994',\n'turn off 587,176 through 850,273',\n'turn off 674,321 through 793,388',\n'toggle 749,672 through 973,965',\n'turn on 943,30 through 990,907',\n'turn on 296,50 through 729,664',\n'turn on 212,957 through 490,987',\n'toggle 171,31 through 688,88',\n'turn off 991,989 through 994,998',\n'turn off 913,943 through 958,953',\n'turn off 278,258 through 367,386',\n'toggle 275,796 through 493,971',\n'turn off 70,873 through 798,923',\n'toggle 258,985 through 663,998',\n'turn on 601,259 through 831,486',\n'turn off 914,94 through 941,102',\n'turn off 558,161 through 994,647',\n'turn on 119,662 through 760,838',\n'toggle 378,775 through 526,852',\n'turn off 384,670 through 674,972',\n'turn off 249,41 through 270,936',\n'turn on 614,742 through 769,780',\n'turn on 427,70 through 575,441',\n'turn on 410,478 through 985,753',\n'turn off 619,46 through 931,342',\n'turn on 284,55 through 768,922',\n'turn off 40,592 through 728,685',\n'turn on 825,291 through 956,950',\n'turn on 147,843 through 592,909',\n'turn off 218,675 through 972,911',\n'toggle 249,291 through 350,960',\n'turn off 556,80 through 967,675',\n'toggle 609,148 through 968,279',\n'toggle 217,605 through 961,862',\n'toggle 407,177 through 548,910',\n'toggle 400,936 through 599,938',\n'turn off 721,101 through 925,455',\n'turn on 268,631 through 735,814',\n'toggle 549,969 through 612,991',\n'toggle 553,268 through 689,432',\n'turn off 817,668 through 889,897',\n'toggle 801,544 through 858,556',\n'toggle 615,729 through 832,951',\n'turn off 427,477 through 958,948',\n'turn on 164,49 through 852,946',\n'turn on 542,449 through 774,776',\n'turn off 923,196 through 980,446',\n'toggle 90,310 through 718,846',\n'turn off 657,215 through 744,252',\n'turn off 800,239 through 811,712',\n'turn on 502,90 through 619,760',\n'toggle 649,512 through 862,844',\n'turn off 334,903 through 823,935',\n'turn off 630,233 through 839,445',\n'turn on 713,67 through 839,865',\n'turn on 932,50 through 982,411',\n'turn off 480,729 through 984,910',\n'turn on 100,219 through 796,395',\n'turn on 758,108 through 850,950',\n'turn off 427,276 through 439,938',\n'turn on 178,284 through 670,536',\n'toggle 540,27 through 625,102',\n'turn off 906,722 through 936,948',\n'toggle 345,418 through 859,627',\n'toggle 175,775 through 580,781',\n'toggle 863,28 through 929,735',\n'turn off 824,858 through 905,973',\n'toggle 752,312 through 863,425',\n'turn on 985,716 through 988,852',\n'turn off 68,504 through 763,745',\n'toggle 76,209 through 810,720',\n'turn off 657,607 through 676,664',\n'toggle 596,869 through 896,921',\n'turn off 915,411 through 968,945',\n'turn off 368,39 through 902,986',\n'turn on 11,549 through 393,597',\n'turn off 842,893 through 976,911',\n'toggle 274,106 through 581,329',\n'toggle 406,403 through 780,950',\n'toggle 408,988 through 500,994',\n'toggle 217,73 through 826,951',\n'turn on 917,872 through 961,911',\n'toggle 394,34 through 510,572',\n'toggle 424,603 through 583,626',\n'toggle 106,159 through 755,738',\n'turn off 244,610 through 472,709',\n'turn on 350,265 through 884,690',\n'turn on 688,184 through 928,280',\n'toggle 279,443 through 720,797',\n'turn off 615,493 through 888,610',\n'toggle 118,413 through 736,632',\n'turn on 798,782 through 829,813',\n'turn off 250,934 through 442,972',\n'turn on 68,503 through 400,949',\n'toggle 297,482 through 313,871',\n'toggle 710,3 through 839,859',\n'turn on 125,300 through 546,888',\n'toggle 482,39 through 584,159',\n'turn off 536,89 through 765,962',\n'turn on 530,518 through 843,676',\n'turn on 994,467 through 994,676',\n'turn on 623,628 through 744,927',\n'toggle 704,912 through 837,983',\n'turn on 154,364 through 517,412',\n'toggle 344,409 through 780,524',\n'turn off 578,740 through 725,879',\n'turn on 251,933 through 632,957',\n'turn on 827,705 through 971,789',\n'toggle 191,282 through 470,929',\n'toggle 324,525 through 446,867',\n'toggle 534,343 through 874,971',\n'toggle 550,650 through 633,980',\n'toggle 837,404 through 881,915',\n'toggle 338,881 through 845,905',\n'turn on 469,462 through 750,696',\n'turn on 741,703 through 892,870',\n'turn off 570,215 through 733,562',\n'turn on 445,576 through 870,775',\n'turn on 466,747 through 554,878',\n'turn off 820,453 through 868,712',\n'turn off 892,706 through 938,792',\n'turn off 300,238 through 894,746',\n'turn off 306,44 through 457,444',\n'turn off 912,569 through 967,963',\n'toggle 109,756 through 297,867',\n'turn on 37,546 through 41,951',\n'turn on 321,637 through 790,910',\n'toggle 66,50 through 579,301',\n'toggle 933,221 through 933,791',\n'turn on 486,676 through 878,797',\n'turn on 417,231 through 556,317',\n'toggle 904,468 through 981,873',\n'turn on 417,675 through 749,712',\n'turn on 692,371 through 821,842',\n'toggle 324,73 through 830,543',\n'turn on 912,490 through 977,757',\n'turn off 634,872 through 902,949',\n'toggle 266,779 through 870,798',\n'turn on 772,982 through 990,996',\n'turn off 607,46 through 798,559',\n'turn on 295,602 through 963,987',\n'turn on 657,86 through 944,742',\n'turn off 334,639 through 456,821',\n'turn off 997,667 through 997,670',\n'turn off 725,832 through 951,945',\n'turn off 30,120 through 952,984',\n'turn on 860,965 through 917,976',\n'toggle 471,997 through 840,998',\n'turn off 319,307 through 928,504',\n'toggle 823,631 through 940,908',\n'toggle 969,984 through 981,993',\n'turn off 691,319 through 865,954',\n'toggle 911,926 through 938,929',\n'turn on 953,937 through 968,991',\n'toggle 914,643 through 975,840',\n'turn on 266,982 through 436,996',\n'turn off 101,896 through 321,932',\n'turn off 193,852 through 751,885',\n'turn off 576,532 through 863,684',\n'turn on 761,456 through 940,783',\n'turn on 20,290 through 398,933',\n'turn off 435,335 through 644,652',\n'turn on 830,569 through 905,770',\n'turn off 630,517 through 905,654',\n'turn on 664,53 through 886,976',\n'toggle 275,416 through 408,719',\n'turn on 370,621 through 515,793',\n'turn on 483,373 through 654,749',\n'turn on 656,786 through 847,928',\n'turn off 532,752 through 945,974',\n'toggle 301,150 through 880,792',\n'turn off 951,488 through 958,952',\n'turn on 207,729 through 882,828',\n'toggle 694,532 through 973,961',\n'toggle 676,639 through 891,802',\n'turn off 653,6 through 905,519',\n'toggle 391,109 through 418,312',\n'turn on 877,423 through 957,932',\n'turn on 340,145 through 563,522',\n'turn off 978,467 through 988,895',\n'turn off 396,418 through 420,885',\n'turn off 31,308 through 816,316',\n'turn on 107,675 through 758,824',\n'turn on 61,82 through 789,876',\n'turn on 750,743 through 754,760',\n'toggle 88,733 through 736,968',\n'turn off 754,349 through 849,897',\n'toggle 157,50 through 975,781',\n'turn off 230,231 through 865,842',\n'turn off 516,317 through 630,329',\n'turn off 697,820 through 829,903',\n'turn on 218,250 through 271,732',\n'toggle 56,167 through 404,431',\n'toggle 626,891 through 680,927',\n'toggle 370,207 through 791,514',\n'toggle 860,74 through 949,888',\n'turn on 416,527 through 616,541',\n'turn off 745,449 through 786,908',\n'turn on 485,554 through 689,689',\n'turn on 586,62 through 693,141',\n'toggle 506,759 through 768,829',\n'turn on 473,109 through 929,166',\n'turn on 760,617 through 773,789',\n'toggle 595,683 through 618,789',\n'turn off 210,775 through 825,972',\n'toggle 12,426 through 179,982',\n'turn on 774,539 through 778,786',\n'turn on 102,498 through 121,807',\n'turn off 706,897 through 834,965',\n'turn off 678,529 through 824,627',\n'turn on 7,765 through 615,870',\n'turn off 730,872 through 974,943',\n'turn off 595,626 through 836,711',\n'turn off 215,424 through 841,959',\n'toggle 341,780 through 861,813',\n'toggle 507,503 through 568,822',\n'turn on 252,603 through 349,655',\n'toggle 93,521 through 154,834',\n'turn on 565,682 through 951,954',\n'turn on 544,318 through 703,418',\n'toggle 756,953 through 891,964',\n'turn on 531,123 through 856,991',\n'turn on 148,315 through 776,559',\n'turn off 925,835 through 963,971',\n'turn on 895,944 through 967,964',\n'turn off 102,527 through 650,747',\n'toggle 626,105 through 738,720',\n'turn off 160,75 through 384,922',\n'toggle 813,724 through 903,941',\n'turn on 207,107 through 982,849',\n'toggle 750,505 through 961,697',\n'toggle 105,410 through 885,819',\n'turn on 226,104 through 298,283',\n'turn off 224,604 through 508,762',\n'turn on 477,368 through 523,506',\n'turn off 477,901 through 627,936',\n'turn off 887,131 through 889,670',\n'turn on 896,994 through 938,999',\n'toggle 401,580 through 493,728',\n'toggle 987,184 through 991,205',\n'turn on 821,643 through 882,674',\n'toggle 784,940 through 968,959',\n'turn off 251,293 through 274,632',\n'turn off 339,840 through 341,844',\n'turn off 675,351 through 675,836',\n'toggle 918,857 through 944,886',\n'toggle 70,253 through 918,736',\n'turn off 612,604 through 772,680',\n'turn off 277,40 through 828,348',\n'toggle 692,139 through 698,880',\n'toggle 124,446 through 883,453',\n'toggle 969,932 through 990,945',\n'toggle 855,692 through 993,693',\n'toggle 722,472 through 887,899',\n'toggle 978,149 through 985,442',\n'toggle 837,540 through 916,889',\n'turn off 612,2 through 835,82',\n'toggle 560,767 through 878,856',\n'turn on 461,734 through 524,991',\n'toggle 206,824 through 976,912',\n'turn on 826,610 through 879,892',\n'turn on 577,699 through 956,933',\n'turn off 9,250 through 50,529',\n'turn off 77,657 through 817,677',\n'turn on 68,419 through 86,426',\n'turn on 991,720 through 992,784',\n'turn on 668,20 through 935,470',\n'turn off 133,418 through 613,458',\n'turn off 487,286 through 540,328',\n'toggle 247,874 through 840,955',\n'toggle 301,808 through 754,970',\n'turn off 34,194 through 578,203',\n'turn off 451,49 through 492,921',\n'turn on 907,256 through 912,737',\n'turn off 479,305 through 702,587',\n'turn on 545,583 through 732,749',\n'toggle 11,16 through 725,868',\n'turn on 965,343 through 986,908',\n'turn on 674,953 through 820,965',\n'toggle 398,147 through 504,583',\n'turn off 778,194 through 898,298',\n'turn on 179,140 through 350,852',\n'turn off 241,118 through 530,832',\n'turn off 41,447 through 932,737',\n'turn off 820,663 through 832,982',\n'turn on 550,460 through 964,782',\n'turn on 31,760 through 655,892',\n'toggle 628,958 through 811,992',\n]",
+			"file": "6.advent.py",
+			"file_size": 10444,
+			"file_write_time": 130939695850000000,
+			"settings":
+			{
+				"buffer_size": 11370,
+				"line_ending": "Unix",
+				"name": "instructions = ["
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "packag",
+		"selected_items":
+		[
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"tail",
+				"Tail: Tail File In New View"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"in",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"color",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"gist",
+				"Gist: Open Gist in Browser"
+			],
+			[
+				"pep",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"Tidy",
+				"TextFormatting - Debug Python"
+			],
+			[
+				"CodeI",
+				"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
+			],
+			[
+				"format",
+				"TextFormatting - Debug Python"
+			],
+			[
+				"intel",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"cod",
+				"Code Folding: Unfold All"
+			],
+			[
+				"for",
+				"TextFormatting - Debug Python"
+			],
+			[
+				"snippe",
+				"Snippet: Function"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"tag",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"FORMAT",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"pack",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"pastry",
+				"Text Pastry: Menu"
+			],
+			[
+				"package con",
+				"Package Control: Remove Package"
+			],
+			[
+				"pastr",
+				"Text Pastry: Menu"
+			],
+			[
+				"sort im",
+				"Python Imports Sorter: sort imports"
+			],
+			[
+				"sort imp",
+				"Python Imports Sorter: sort imports"
+			],
+			[
+				"sort ",
+				"Python Imports Sorter: sort imports"
+			],
+			[
+				"sort",
+				"Python Imports Sorter: sort imports"
+			],
+			[
+				"pas",
+				"Text Pastry: From 0 To X"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"pacakge",
+				"Package Control: Remove Package"
+			],
+			[
+				"set syntax: pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"mercu",
+				"Set Syntax: Mercurial Status Report"
+			],
+			[
+				"enabe",
+				"Package Control: Enable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"deac",
+				"Package Control: Disable Package"
+			],
+			[
+				"REPL",
+				"SublimeREPL: PowerShell"
+			],
+			[
+				"repl",
+				"SublimeREPL: Shell"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"TodoR",
+				"TodoReview: Project Files"
+			],
+			[
+				"TodoRe",
+				"TodoReview: Project Files"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pasr",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"past",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"pep8",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"autofo",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"pyfl",
+				"User: Python Flake8 Lint"
+			],
+			[
+				"flake",
+				"User: Python Flake8 Lint"
+			],
+			[
+				"trailing",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"import",
+				"Python Imports Sorter: sort imports"
+			],
+			[
+				"impoert",
+				"Python Imports Sorter: sort imports"
+			],
+			[
+				"package control",
+				"Package Control: Disable Package"
+			],
+			[
+				"add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Function"
+			],
+			[
+				"anacond",
+				"Anaconda: Show error list"
+			],
+			[
+				"Package Control:",
+				"Package Control: List Packages"
+			],
+			[
+				"idenn",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"idnen",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indend",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 700.0
+	},
+	"console":
+	{
+		"height": 392.0,
+		"history":
+		[
+			"view.run_command('trac_list_tickets')",
+			"view.run_command('blame')",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"view.run_command('blame')",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/floriancech/projects/adventofcode"
+	],
+	"file_history":
+	[
+		"/Users/floriancech/projects/adventofcode/3.advent.py",
+		"/Users/floriancech/projects/adventofcode/4.advent.py",
+		"/Users/floriancech/projects/adventofcode/5.advent.py",
+		"/Users/floriancech/projects/adventofcode/1stofadvent.py",
+		"/var/folders/0d/qw2zs0911j7g60mfp5_gpn280000gn/T/hg-editor-pK3gUo.txt",
+		"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/publicskin/configure.zcml",
+		"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/content/content.py",
+		"/Users/floriancech/projects/wien.info/default.wien.info/etc/nginx/vhosts/events.wien.info.conf",
+		"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/content/configure.zcml",
+		"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/content/secondary.py",
+		"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/content/interfaces.py",
+		"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/publicskin/vcb.py",
+		"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/bin/reinstall.py",
+		"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/structure/setup.py",
+		"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/publicskin/templates/vcb/agency.pt",
+		"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/publicskin/templates/vcb/agencylist.pt",
+		"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/content/vcb.py",
+		"/Users/floriancech/projects/wien.info/default.wien.info/Vagrantfile",
+		"/var/folders/0d/qw2zs0911j7g60mfp5_gpn280000gn/T/hg-editor-CQ5FUM.txt",
+		"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/admin/interfaces.py",
+		"/var/folders/0d/qw2zs0911j7g60mfp5_gpn280000gn/T/hg-editor-ImTwZO.txt",
+		"/var/folders/0d/qw2zs0911j7g60mfp5_gpn280000gn/T/hg-editor-surOyy.txt",
+		"/var/folders/0d/qw2zs0911j7g60mfp5_gpn280000gn/T/hg-editor-tWfdba.txt",
+		"/var/folders/0d/qw2zs0911j7g60mfp5_gpn280000gn/T/hg-editor-h0qipD.txt",
+		"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/publicskin/templates/vcb/venue.pt",
+		"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/publicskin/templates/vcb/venuefinder.pt",
+		"/var/folders/0d/qw2zs0911j7g60mfp5_gpn280000gn/T/hg-editor-Kee60I.txt",
+		"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/publicskin/subsites.py",
+		"/Users/floriancech/projects/wien.info/default.wien.info/vagrant/sync_datafs.sh",
+		"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/wienlets/context.py",
+		"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/publicskin/static.py",
+		"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/publicskin/base.py",
+		"/Users/floriancech/projects/wien.info/default.wien.info/vagrant/sync_blobstorage.sh",
+		"/var/folders/0d/qw2zs0911j7g60mfp5_gpn280000gn/T/hg-editor-aXjvtZ.txt",
+		"/var/folders/0d/qw2zs0911j7g60mfp5_gpn280000gn/T/hg-editor-jkJfmZ.txt",
+		"/var/folders/0d/qw2zs0911j7g60mfp5_gpn280000gn/T/hg-editor-Ky1DQ4.txt",
+		"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/structure/setupdata.py",
+		"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/setup.py",
+		"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/browser/configure.zcml",
+		"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/admin/taxonomy.py",
+		"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/content/b2b.py",
+		"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/content/field.py",
+		"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/profiles/default/diff_tool.xml",
+		"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/profiles/default/types.xml",
+		"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/profiles/default/types/Folder.xml",
+		"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/profiles/default/types/Agency.xml",
+		"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/profiles/default/workflows.xml",
+		"/Users/floriancech/projects/wien.info/default.wien.info/etc/buildout/versions.cfg",
+		"/Users/floriancech/projects/wien.info/default.wien.info/bin/instance1",
+		"/Users/floriancech/projects/wien.info/default.wien.info/etc/buildout/base.cfg",
+		"/Users/floriancech/sync/sync_nw_tender.sh",
+		"/var/folders/0d/qw2zs0911j7g60mfp5_gpn280000gn/T/hg-editor-lxXdw2.txt",
+		"/Users/floriancech/projects/wien.info/default.wien.info/vagrant/chef/up.rb",
+		"/var/folders/0d/qw2zs0911j7g60mfp5_gpn280000gn/T/hg-editor-lQpfXg.txt",
+		"/var/folders/0d/qw2zs0911j7g60mfp5_gpn280000gn/T/hg-editor-ywwQzu.txt",
+		"/var/folders/0d/qw2zs0911j7g60mfp5_gpn280000gn/T/hg-editor-8q5_Lp.txt",
+		"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/profiles/default/types/Congress.xml",
+		"/var/folders/0d/qw2zs0911j7g60mfp5_gpn280000gn/T/hg-editor-bSPLUT.txt",
+		"/Users/floriancech/projects/wien.info/default.wien.info/etc/buildout/development.cfg",
+		"/Users/floriancech/projects/wien.info/default.wien.info/etc/buildout/nginx.cfg",
+		"/Users/floriancech/projects/wien.info/default.wien.info/etc/buildout/25th-floor.cfg",
+		"/Users/floriancech/projects/wien.info/default.wien.info/default.wien.info.sublime-project",
+		"/Users/floriancech/projects/wien.info/default.wien.info/vagrant/chef/down.rb",
+		"/Users/floriancech/projects/wien.info/default.wien.info/vagrant/chef/restart.rb",
+		"/Users/floriancech/.config/fish/config.fish",
+		"/Users/floriancech/projects/wien.info/default.wien.info/buildout.cfg",
+		"/Users/floriancech/projects/wien.info/default.wien.info/var/blobstorage/.layout",
+		"/Users/floriancech/projects/wien.info/default.wien.info/etc/buildout/vagrant.cfg",
+		"/Users/floriancech/projects/wien.info/default.wien.info/etc/buildout/staging.cfg",
+		"/Users/floriancech/projects/wien.info/default.wien.info/var/log/zeo-stderr---supervisor-L7fe4Q.log",
+		"/var/folders/0d/qw2zs0911j7g60mfp5_gpn280000gn/T/hg-editor-JULhdY.txt",
+		"/var/folders/0d/qw2zs0911j7g60mfp5_gpn280000gn/T/hg-editor-c0w5SY.txt",
+		"/Users/floriancech/projects/wien.info/default.wien.info/etc/nginx/vhosts/b2b.wien.info.conf",
+		"/Users/floriancech/projects/wien.info/default.wien.info/etc/nginx/vhosts/b.wien.info.conf",
+		"/var/folders/0d/qw2zs0911j7g60mfp5_gpn280000gn/T/hg-editor-KEIXjM.txt",
+		"/Users/floriancech/projects/wien.info/default.wien.info/etc/nginx/nginx.conf",
+		"/Users/floriancech/projects/wien.info/default.wien.info/README.rst",
+		"/var/folders/0d/qw2zs0911j7g60mfp5_gpn280000gn/T/hg-editor-LrHXFn.txt",
+		"/var/folders/0d/qw2zs0911j7g60mfp5_gpn280000gn/T/hg-editor-YUeBls.txt",
+		"/etc/hosts",
+		"/Users/floriancech/projects/wien.info/default.wien.info/vagrant/bootstrap.sh",
+		"/Users/floriancech/projects/wien.info/default.wien.info/.hgignore",
+		"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/publicskin/contextsnippet/vec.py",
+		"/Users/floriancech/projects/wien.info/default.wien.info/README.txt",
+		"/Users/floriancech/projects/wien.info/default.wien.info/npm-debug.log",
+		"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/publicskin/templates/vec/forms/password-reset.pt",
+		"/var/folders/0d/qw2zs0911j7g60mfp5_gpn280000gn/T/hg-editor-g6wNUP.txt",
+		"/Users/floriancech/projects/enercoach/enercoach/locale/it_CH/LC_MESSAGES/enercoach.po",
+		"/Users/floriancech/projects/enercoach/enercoach/locale/fr_CH/LC_MESSAGES/enercoach.po",
+		"/Users/floriancech/projects/enercoach/enercoach/locale/de_CH/LC_MESSAGES/enercoach.po",
+		"/Users/floriancech/projects/enercoach/enercoach/locale/en/LC_MESSAGES/enercoach.po",
+		"/Users/floriancech/projects/enercoach/enercoach/services/tests/report_fixtures.py",
+		"/Users/floriancech/projects/enercoach/enercoach/resources/tests/test_report_energycosts.py",
+		"/Users/floriancech/projects/enercoach/enercoach/tests/webtest/test_mix.py",
+		"/Users/floriancech/projects/enercoach/README.rst",
+		"/Users/floriancech/projects/enercoach/Vagrantfile",
+		"/Users/floriancech/projects/enercoach/testing.ini",
+		"/Users/floriancech/projects/enercoach/testing.wsgi",
+		"/var/folders/0d/qw2zs0911j7g60mfp5_gpn280000gn/T/hg-editor-wFp3rf.txt",
+		"/Users/floriancech/projects/enercoach/enercoach/resources/tests/test_report_energyconsumption.py",
+		"/var/folders/0d/qw2zs0911j7g60mfp5_gpn280000gn/T/hg-editor-xDqJE2.txt",
+		"/Users/floriancech/projects/enercoach/enercoach/templates/snippets/meter-details.pt",
+		"/Users/floriancech/projects/enercoach/enercoach/templates/reports/energy_efficiency.pt",
+		"/Users/floriancech/projects/enercoach/enercoach/templates/snippets/organisation-details.pt",
+		"/Users/floriancech/projects/enercoach/enercoach/views/reports/keyfigures.py",
+		"/Users/floriancech/projects/enercoach/enercoach/resources/reports/keyfigures.py",
+		"/Users/floriancech/projects/enercoach/enercoach/resources/reports/keyfigure_ae_comparison.py",
+		"/Users/floriancech/projects/enercoach/enercoach/constants.py",
+		"/Users/floriancech/projects/enercoach/enercoach/templates/500.pt",
+		"/Users/floriancech/projects/enercoach/enercoach/__init__.py",
+		"/Users/floriancech/projects/enercoach/enercoach/templates/reports/keyfigure_ae_comparison.pt",
+		"/Users/floriancech/projects/enercoach/enercoach/views/report.py",
+		"/Users/floriancech/projects/enercoach/enercoach/views/reports/keyfigure_ae_comparison.py",
+		"/var/folders/0d/qw2zs0911j7g60mfp5_gpn280000gn/T/hg-editor-aZkEE_.txt",
+		"/var/folders/0d/qw2zs0911j7g60mfp5_gpn280000gn/T/hg-editor-s9l2mm.txt",
+		"/var/folders/0d/qw2zs0911j7g60mfp5_gpn280000gn/T/hg-editor-NXP5FX.txt",
+		"/Users/floriancech/projects/enercoach/enercoach/resources/reports/keyfigure_comparison.py",
+		"/Users/floriancech/projects/enercoach/enercoach/forms/report.py",
+		"/Users/floriancech/projects/enercoach/enercoach/templates/snippets/htmlhead.pt",
+		"/Users/floriancech/projects/enercoach/enercoach/views/reports/__init__.py",
+		"/Users/floriancech/projects/enercoach/enercoach/views/reports/keyfigure_comparison.py",
+		"/Users/floriancech/projects/enercoach/enercoach/templates/reports/keyfigure_comparison.pt",
+		"/Users/floriancech/projects/enercoach/enercoach/locale/enercoach.pot",
+		"/Users/floriancech/projects/enercoach/translations.sh",
+		"/Users/floriancech/projects/enercoach/enercoach/forms/objectzone.py",
+		"/var/folders/0d/qw2zs0911j7g60mfp5_gpn280000gn/T/hg-editor-IqeWS2.txt",
+		"/Users/floriancech/projects/enercoach/enercoach/locale/it_CH/LC_MESSAGES/enercoach_untrans.po",
+		"/Users/floriancech/projects/enercoach/enercoach/resources/series/renewable_consumption.py"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/floriancech/projects/wien.info/default.wien.info/src, *.py",
+			"/Users/floriancech/projects/wien.info/default.wien.info/etc/buildout, *.cfg",
+			"/Users/floriancech/projects/wien.info/default.wien.info/src, *.py",
+			"/Users/floriancech/projects/wien.info/default.wien.info/src",
+			"/Users/floriancech/projects/wien.info/default.wien.info/etc",
+			"/Users/floriancech/projects/wien.info/default.wien.info/src",
+			"/Users/floriancech/projects/wien.info/default.wien.info/",
+			"/Users/floriancech/projects/wien.info/default.wien.info/src",
+			"/Users/floriancech/projects/wien.info/default.wien.info/",
+			"/Users/floriancech/projects/wien.info/default.wien.info/etc",
+			"/Users/floriancech/projects/wien.info/default.wien.info/etc/buildout",
+			"/Users/floriancech/projects/wien.info/default.wien.info/etc",
+			"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo",
+			"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/",
+			"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/content",
+			"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/",
+			"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/content",
+			"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/",
+			"/Users/floriancech/projects/wien.info/default.wien.info/src/WienInfoSite/wieninfo/site/content",
+			"*.py",
+			"src/; *.py",
+			"src/, *.py",
+			"src/",
+			"",
+			"etc/",
+			"",
+			"*.py",
+			"*.pt",
+			"",
+			"/Users/floriancech/projects/enercoach/enercoach, *.txt",
+			"/Users/floriancech/projects/enercoach/enercoach, *.py",
+			"/Users/floriancech/projects/enercoach/enercoach, *.p",
+			"/Users/floriancech/projects/enercoach/enercoach, *.po",
+			"/Users/floriancech/projects/enercoach/enercoach, *.p*",
+			"/Users/floriancech/projects/enercoach/, *.p*",
+			"/Users/floriancech/projects/enercoach/enercoach/, *.p*",
+			"/Users/floriancech/projects/enercoach/enercoach/, *.pt",
+			"/Users/floriancech/projects/enercoach/enercoach/, *.po",
+			"/Users/floriancech/projects/enercoach/enercoach/, *.pt",
+			"/Users/floriancech/projects/enercoach/enercoach/, *.po",
+			"/Users/floriancech/projects/enercoach/enercoach/",
+			"/Users/floriancech/projects/enercoach/",
+			"/Users/floriancech/projects/enercoach/enercoach, *.py",
+			"/Users/floriancech/projects/enercoach/, *.py",
+			"/Users/floriancech/projects/enercoach/",
+			"/Users/floriancech/projects/enercoach/enercoach",
+			"/Users/floriancech/projects/enercoach",
+			"/Users/floriancech/projects/enercoach/",
+			"/Users/floriancech/projects/enercoach/enercoach",
+			"/Users/floriancech/projects/enercoach/enercoach, *.py",
+			"/Users/floriancech/projects/enercoach/enercoach, *.pt",
+			"/Users/floriancech/projects/enercoach/enercoach, *.po",
+			"/Users/floriancech/projects/enercoach/enercoach, *.pt",
+			"/Users/floriancech/projects/enercoach/enercoach, *.po",
+			"/Users/floriancech/projects/enercoach/enercoach",
+			"/Users/floriancech/projects/enercoach",
+			"/Users/floriancech/projects/enercoach, *.py",
+			"/Users/floriancech/projects/enercoach/enercoach, *.py",
+			"/Users/floriancech/projects/enercoach/enercoach, *.po",
+			"/Users/floriancech/projects/enercoach/enercoach, *.py",
+			"/Users/floriancech/projects/enercoach/enercoach, *.po, *.pot, *.pt",
+			"/Users/floriancech/projects/enercoach/enercoach, *.po, *.pot",
+			"/Users/floriancech/projects/enercoach/enercoach, *.po",
+			"/Users/floriancech/projects/enercoach/enercoach",
+			"/Users/floriancech/projects/enercoach/enercoach, *.po",
+			"/Users/floriancech/projects/enercoach/enercoach, *.pt",
+			"/Users/floriancech/projects/enercoach/enercoach, *.py",
+			"/Users/floriancech/projects/enercoach/enercoach",
+			"/Users/floriancech/projects/enercoach/enercoach, *.pt",
+			"/Users/floriancech/projects/enercoach/enercoach",
+			"/Users/floriancech/projects/enercoach/enercoach, *.py",
+			"/Users/floriancech/projects/enercoach/enercoach, *.po",
+			"/Users/floriancech/projects/enercoach/enercoach, *.pt",
+			"/Users/floriancech/projects/enercoach/enercoach, *.po",
+			"/Users/floriancech/projects/enercoach/enercoach, *.py",
+			"/Users/floriancech/projects/enercoach/enercoach",
+			"/Users/floriancech/projects/enercoach/enercoach, *.js",
+			"/Users/floriancech/projects/enercoach/enercoach",
+			"/Users/floriancech/projects/enercoach",
+			"/Users/floriancech/projects/enercoach/enercoach",
+			"/Users/floriancech/projects/enercoach/enercoach, *.pt",
+			"/Users/floriancech/projects/enercoach/enercoach, *.js",
+			"/Users/floriancech/projects/enercoach/enercoach, *.py",
+			"/Users/floriancech/projects/enercoach/enercoach",
+			"/Users/floriancech/projects/enercoach/enercoach, *.py",
+			"/Users/floriancech/projects/enercoach, *.py",
+			"/Users/floriancech/projects/enercoach, *.pt",
+			"/Users/floriancech/projects/enercoach, *.py",
+			"/Users/floriancech/projects/enercoach",
+			"/Users/floriancech/projects/enercoach, *.py",
+			"/Users/floriancech/projects/enercoach",
+			"/Users/floriancech/projects/enercoach, *.py",
+			"/Users/floriancech/projects/enercoach",
+			"/Users/floriancech/projects/enercoach/",
+			"/Users/floriancech/projects/enercoach/, *.js",
+			"/Users/floriancech/projects/enercoach/enercoach, *.js",
+			"/Users/floriancech/projects/enercoach/, *.js",
+			"/Users/floriancech/projects/enercoach/",
+			"/Users/floriancech/projects/enercoach/, *.js",
+			"/Users/floriancech/projects/enercoach/, *.pt",
+			"/Users/floriancech/projects/enercoach/",
+			"/Users/floriancech/projects/enercoach/, *.py",
+			"/Users/floriancech/projects/enercoach/, *.js",
+			"/Users/floriancech/projects/enercoach/, *.pt",
+			"/Users/floriancech/projects/enercoach/, *.py",
+			"/Users/floriancech/projects/enercoach/",
+			"/Users/floriancech/projects/enercoach/, *.py",
+			"/Users/floriancech/projects/enercoach/",
+			"/Users/floriancech/projects/enercoach/src",
+			"/Users/floriancech/projects/enercoach/enercoach",
+			"/Users/floriancech/projects/enercoach",
+			"/Users/floriancech/projects/enercoach/enercoach",
+			"/Users/floriancech/projects/enercoach/src/kotti",
+			"/Users/floriancech/projects/enercoach/",
+			"/Users/floriancech/projects/enercoach/enercoach",
+			"/Users/floriancech/projects/enercoach/enercoach, *.pt",
+			"/Users/floriancech/projects/enercoach/enercoach",
+			"/Users/floriancech/projects/enercoach/",
+			"/Users/floriancech/projects/enercoach/, *.py",
+			"/Users/floriancech/projects/enercoach/",
+			"/Users/floriancech/projects/enercoach/src",
+			"/Users/floriancech/projects/enercoach/",
+			"/Users/floriancech/projects/enercoach/enercoach",
+			"/Users/floriancech/projects/enercoach/",
+			"/Users/floriancech/projects/enercoach/enercoach",
+			"/Users/floriancech/projects/enercoach",
+			"/Users/floriancech/projects/enercoach/enercoach",
+			"/Users/floriancech/projects/enercoach"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			",",
+			"through",
+			"double_occ",
+			"grid",
+			"def _init",
+			"def init",
+			"init",
+			"pack",
+			"zeo-blob-storage",
+			"location_image",
+			"common['startImage'].copy()",
+			"newsletter_image",
+			"newsletter_image\nnewsletter_image\nnewsletter_image\nnewsletter_image\nnewsletter_image\nnewsletter_image\nnewsletter_image\nnewsletter_image\nnewsletter_image\nnewsletter_image\nnewsletter_image\nnewsletter_image\nnewsletter_image",
+			"newsletter_image",
+			"startImage",
+			"True",
+			"\"image\"",
+			"common[\"image\"]",
+			"common[\"image\"].copy()",
+			"languageIndependent",
+			"language_independent",
+			"image",
+			"common['image']",
+			"image",
+			"IVCBOrganizer",
+			"1754-VCB-venuefinder",
+			"IVCBOrganizer",
+			"IVCBOrganiser",
+			"IVCBOrganizer",
+			"1698-VCB-congress-calendar",
+			"IVCBOrganizer",
+			"local",
+			"agencyfinder",
+			"venue",
+			"vcb_venue",
+			"19",
+			"vcb_venue_url",
+			"Agency",
+			"congress",
+			"vcb",
+			"$SERVICE",
+			"banner.wien.info",
+			"vcb",
+			"base",
+			"Unauth",
+			"column[manager_name]",
+			"wienletmanager-settings",
+			"psycopg2",
+			"element",
+			"include-site",
+			"include-site-packages",
+			"include-site-packgaes",
+			"requests",
+			"psycopg",
+			"psyc",
+			"IMediaVCBFolder",
+			"files-vcb",
+			"searchwidget-wieninfo-images",
+			"searchimages_view",
+			"searchimages",
+			"searchimages_view",
+			"searchimages.pt",
+			"searchimages_view",
+			"event.gif",
+			"location_object",
+			"location",
+			"get_taxonomy_vocabulary",
+			"500",
+			"_types",
+			"org_type",
+			"wieninfo-location-pricecategories",
+			"location_pricecategories",
+			"pco",
+			"wieninfo-location-categories",
+			"category",
+			"voc_categories",
+			"voc_categories_raw",
+			"voc_categories",
+			"voc_categories_raw",
+			"taxonomy",
+			"get_taxonomy_vocabulary",
+			"taxonomy",
+			"Taxon",
+			"common[",
+			"membershipsIncentive",
+			"membershipsPCO",
+			"is_green",
+			"(flag)",
+			"images",
+			"label",
+			"image",
+			"logo",
+			"article_schema_raw",
+			"image",
+			"VCBAgency",
+			"Agency",
+			"Congress",
+			"IWienInfoContent",
+			"zeo",
+			"b2b",
+			"\n",
+			"[",
+			"parts-site-config",
+			"blobstorage",
+			"]",
+			"[",
+			"local.wien.info",
+			"80",
+			"error_log",
+			"FormContextSnippet",
+			"common_macros",
+			"/>\n",
+			"development.ini ",
+			"ch",
+			"development.ini ",
+			"No base year is selected by default",
+			"%d/%m/%Y",
+			"test_mixperiod_view_add_gas",
+			"result_energycosts_single_object",
+			"test_report_energycosts_single_organisation",
+			"fuzzy",
+			"\"\n",
+			"Emissionen",
+			"fuzzy",
+			"%d",
+			"%",
+			"%d/%m/%Y",
+			"%d.%m.%Y"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Utilisation and Correction Factors",
+			"Terms of Use",
+			"Energy City - Greenhouse Gas Comparison Report Table",
+			"Energy City - Greenhouse Gas Intensity Report Table",
+			"Energy City - Energy Efficiency Report Table",
+			"Energy City - Renewable Consumption Report Table",
+			"msgid \"Vehicles\"",
+			"'f'",
+			"'t'",
+			"list(set(dependents))",
+			"<span data-supply=''>",
+			"<span data-share_of_renewables=''>",
+			" <span data-greenhouse_gases=''>",
+			"<span data-primary_energy_factor=''>",
+			"subprocess.check_output",
+			"from enercoach.conftest import climate_data",
+			"cached",
+			"objects_missing_consumptions",
+			",\n",
+			",",
+			" ",
+			"if round_values:\n",
+			"round_values=False\n",
+			"\n",
+			"sitemap_lang_id;\n",
+			"/>\n",
+			"",
+			"password = u\"1234\"",
+			"AuthData",
+			" = u\"",
+			"\"",
+			"=",
+			"FunctionalTestCase",
+			"(created_id, json) = self._create",
+			"/time/api/v1/clients/",
+			"='",
+			"\n",
+			"Jeronimo Albi <albi@wienfluss.net> ",
+			"Fabian Buechler <buechler@wienfluss.net>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "6.advent.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11370,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								922,
+								922
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"auto_name": "instructions = [",
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"is_xml": false,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.autopep8":
+	{
+		"height": 100.0
+	},
+	"output.channel_repository_tools":
+	{
+		"height": 92.0
+	},
+	"output.exec":
+	{
+		"height": 225.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 96.0
+	},
+	"pinned_build_system": "",
+	"project": "adventofcode.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"vagrant",
+				"Vagrantfile"
+			],
+			[
+				"reinsta",
+				"src/WienInfoSite/bin/reinstall.py"
+			],
+			[
+				"interfac",
+				"src/WienInfoSite/wieninfo/site/admin/interfaces.py"
+			],
+			[
+				"vcb",
+				"src/WienInfoSite/wieninfo/site/publicskin/vcb.py"
+			],
+			[
+				"vcb.p",
+				"src/WienInfoSite/wieninfo/site/content/vcb.py"
+			],
+			[
+				"venue",
+				"src/WienInfoSite/wieninfo/site/publicskin/templates/vcb/venue.pt"
+			],
+			[
+				"venuefi",
+				"src/WienInfoSite/wieninfo/site/publicskin/templates/vcb/venuefinder.pt"
+			],
+			[
+				"venue.",
+				"src/WienInfoSite/wieninfo/site/publicskin/templates/vcb/venue.pt"
+			],
+			[
+				"content/vcb",
+				"src/WienInfoSite/wieninfo/site/content/vcb.py"
+			],
+			[
+				"configure",
+				"src/WienInfoSite/wieninfo/site/publicskin/configure.zcml"
+			],
+			[
+				"publicskin/base",
+				"src/WienInfoSite/wieninfo/site/publicskin/base.py"
+			],
+			[
+				"src/wieninfosite/wieninfo/site/publicskin/static.py",
+				"src/WienInfoSite/wieninfo/site/publicskin/static.py"
+			],
+			[
+				"src/wieninfosite/wieninfo/site/wienlets/context.py",
+				"src/WienInfoSite/wieninfo/site/wienlets/context.py"
+			],
+			[
+				"vagra",
+				"Vagrantfile"
+			],
+			[
+				"taxonom",
+				"src/WienInfoSite/wieninfo/site/admin/taxonomy.py"
+			],
+			[
+				"setupdata",
+				"src/WienInfoSite/wieninfo/site/structure/setupdata.py"
+			],
+			[
+				"site/structure/setup.py",
+				"src/WienInfoSite/wieninfo/site/structure/setup.py"
+			],
+			[
+				"publicskinbase.",
+				"src/WienInfoSite/wieninfo/site/publicskin/base.py"
+			],
+			[
+				"testing.w",
+				"enercoach/testing.wsgi"
+			],
+			[
+				"testing",
+				"enercoach/testing.ini"
+			],
+			[
+				"testin",
+				"enercoach/testing.ini"
+			],
+			[
+				"read",
+				"enercoach/README.rst"
+			],
+			[
+				"test_report_ener",
+				"enercoach/enercoach/resources/tests/test_report_energyconsumption.py"
+			],
+			[
+				"organisation-details.pt",
+				"enercoach/enercoach/templates/snippets/organisation-details.pt"
+			],
+			[
+				"energy_efficiency.pt",
+				"enercoach/enercoach/templates/reports/energy_efficiency.pt"
+			],
+			[
+				"meter-details.pt",
+				"enercoach/enercoach/templates/snippets/meter-details.pt"
+			],
+			[
+				"500",
+				"enercoach/enercoach/templates/500.pt"
+			],
+			[
+				"consta",
+				"enercoach/enercoach/constants.py"
+			],
+			[
+				"trans",
+				"enercoach/translations.sh"
+			],
+			[
+				"enercoach/resources/series/renewable_consumption.py",
+				"enercoach/enercoach/resources/series/renewable_consumption.py"
+			],
+			[
+				"keyfigre",
+				"enercoach/enercoach/resources/reports/keyfigures.py"
+			],
+			[
+				"enercoach/views/reports/gg_comparison.py",
+				"enercoach/enercoach/views/reports/gg_comparison.py"
+			],
+			[
+				"cache",
+				"enercoach/enercoach/services/cache.py"
+			],
+			[
+				"units",
+				"enercoach/enercoach/services/units.py"
+			],
+			[
+				"overview",
+				"enercoach/enercoach/views/reports/report_overview.py"
+			],
+			[
+				"requ",
+				"enercoach/requirements.txt"
+			],
+			[
+				"objec",
+				"enercoach/enercoach/resources/object.py"
+			],
+			[
+				"services/series",
+				"enercoach/enercoach/services/series.py"
+			],
+			[
+				"test_mix_add_update_delete.py",
+				"enercoach/enercoach/tests/selenium/test_mix_add_update_delete.py"
+			],
+			[
+				"test_mix_electricity_periods_and_carriers.py",
+				"enercoach/enercoach/tests/selenium/test_mix_electricity_periods_and_carriers.py"
+			],
+			[
+				"test_object_meter_add_update_delete.py",
+				"enercoach/enercoach/tests/selenium/test_object_meter_add_update_delete.py"
+			],
+			[
+				"utils",
+				"enercoach/lib/python2.7/site-packages/chameleon/utils.py"
+			],
+			[
+				"contact",
+				"enercoach/enercoach/templates/contact.pt"
+			],
+			[
+				"nav-h",
+				"enercoach/enercoach/templates/snippets/nav-header.pt"
+			],
+			[
+				"boot",
+				"enercoach/vagrant/vg_bootstrap.sh"
+			],
+			[
+				"report",
+				"enercoach/enercoach/forms/report.py"
+			],
+			[
+				"plau",
+				"enercoach/enercoach/services/plausibility.py"
+			],
+			[
+				"vagr",
+				"enercoach/Vagrantfile"
+			],
+			[
+				"setuy",
+				"enercoach/setup.py"
+			],
+			[
+				"enercoach/tests/selenium/test_object_meter_consumption.py",
+				"enercoach/enercoach/tests/selenium/test_object_meter_consumption.py"
+			],
+			[
+				"require",
+				"enercoach/requirements-dev.txt"
+			],
+			[
+				"setup.",
+				"enercoach/setup.py"
+			],
+			[
+				"start",
+				"enercoach/enercoach/services/start.py"
+			],
+			[
+				"keyfi",
+				"enercoach/enercoach/views/reports/keyfigures.py"
+			],
+			[
+				"keyf",
+				"enercoach/enercoach/templates/reports/keyfigures.pt"
+			],
+			[
+				"hist",
+				"enercoach/HISTORY.txt"
+			],
+			[
+				"req",
+				"enercoach/requirements-dev.txt"
+			],
+			[
+				"testing.ws",
+				"enercoach/testing.wsgi"
+			],
+			[
+				"enercoach/widgets/textinput.py",
+				"enercoach/enercoach/widgets/textinput.py"
+			],
+			[
+				"validator",
+				"enercoach/enercoach/services/validators.py"
+			],
+			[
+				"enercoach/services/organisation.py",
+				"enercoach/enercoach/services/organisation.py"
+			],
+			[
+				"climate",
+				"enercoach/enercoach/services/csvdata/climate.csv"
+			],
+			[
+				"enercoach.po",
+				"enercoach/enercoach/locale/en/LC_MESSAGES/enercoach.po"
+			],
+			[
+				"keyfigur_ae",
+				"enercoach/enercoach/templates/reports/keyfigure_ae_comparison.pt"
+			],
+			[
+				"object-z",
+				"enercoach/enercoach/templates/object-zones-view.pt"
+			],
+			[
+				"widget.",
+				"enercoach/lib/python2.7/site-packages/deform/widget.py"
+			],
+			[
+				"meter-consumption-view.pt",
+				"enercoach/enercoach/templates/meter-consumption-view.pt"
+			],
+			[
+				"key",
+				"enercoach/enercoach/resources/reports/keyfigures.py"
+			],
+			[
+				"energycon",
+				"enercoach/enercoach/resources/reports/energyconsumption.py"
+			],
+			[
+				"energy_shares",
+				"enercoach/enercoach/templates/reports/energy_shares.pt"
+			],
+			[
+				"chart",
+				"enercoach/enercoach/static/js/chart.js"
+			],
+			[
+				"object",
+				"enercoach/enercoach/resources/object.py"
+			],
+			[
+				"keyfigure_ae",
+				"enercoach/enercoach/templates/reports/keyfigure_ae_comparison.pt"
+			],
+			[
+				"constnat",
+				"enercoach/enercoach/resources/constants.py"
+			],
+			[
+				"charts.",
+				"enercoach/enercoach/static/js/chart.js"
+			],
+			[
+				"translationstring/",
+				"enercoach/lib/python2.7/site-packages/translationstring/__init__.py"
+			],
+			[
+				"i18n",
+				"enercoach/lib/python2.7/site-packages/pyramid/i18n.py"
+			],
+			[
+				"enercoach/widgets/dateinput.py",
+				"enercoach/enercoach/widgets/dateinput.py"
+			],
+			[
+				"organisation-mixes-view.pt",
+				"enercoach/enercoach/templates/organisation-mixes-view.pt"
+			],
+			[
+				"fanstatic.py",
+				"enercoach/enercoach/fanstatic.py"
+			],
+			[
+				"templates/country-view.pt",
+				"enercoach/enercoach/templates/country-view.pt"
+			],
+			[
+				"htmlhead",
+				"enercoach/enercoach/templates/snippets/htmlhead.pt"
+			],
+			[
+				"over",
+				"enercoach/enercoach/templates/reports/report_overview.pt"
+			],
+			[
+				"pg_de",
+				"enercoach/pg_development.ini"
+			],
+			[
+				"table.sass",
+				"enercoach/enercoach/static/style/sass/_table.sass"
+			],
+			[
+				"list-",
+				"enercoach/enercoach/templates/list-reports-view.pt"
+			],
+			[
+				"enercoach/templates/mixperiod-electricity-macros.pt",
+				"enercoach/enercoach/templates/mixperiod-electricity-macros.pt"
+			],
+			[
+				"organisa",
+				"enercoach/enercoach/forms/organisation.py"
+			],
+			[
+				"confte",
+				"enercoach/enercoach/conftest.py"
+			],
+			[
+				"kotti/__init",
+				"enercoach/src/kotti/kotti/__init__.py"
+			],
+			[
+				"location",
+				"enercoach/enercoach/services/location.py"
+			],
+			[
+				"popul",
+				"enercoach/enercoach/populate.py"
+			],
+			[
+				"test_dataim",
+				"enercoach/enercoach/services/tests/test_dataimport.py"
+			],
+			[
+				"enercoach/resources/tests/test_meter.py",
+				"enercoach/enercoach/resources/tests/test_meter.py"
+			],
+			[
+				"resources.p",
+				"enercoach/src/kotti/kotti/resources.py"
+			],
+			[
+				"requi",
+				"enercoach/requirements.txt"
+			],
+			[
+				"populate",
+				"enercoach/enercoach/populate.py"
+			],
+			[
+				"config",
+				"enercoach/config.rb"
+			],
+			[
+				"deve",
+				"enercoach/development.ini"
+			],
+			[
+				"initbingin",
+				"enercoach/enercoach/static/js/lightbox-initbindings-enercoach.js"
+			],
+			[
+				"energyconsu",
+				"enercoach/enercoach/resources/reports/energyconsumption.py"
+			],
+			[
+				"services/cac",
+				"enercoach/enercoach/services/cache.py"
+			],
+			[
+				"mix",
+				"enercoach/enercoach/resources/mix.py"
+			],
+			[
+				"meter",
+				"enercoach/enercoach/resources/meter.py"
+			],
+			[
+				"form-view.pt",
+				"enercoach/src/eeashared/eeashared/templates/form-view.pt"
+			],
+			[
+				"keyfigure_",
+				"enercoach/enercoach/templates/reports/keyfigure_ae_comparison.pt"
+			],
+			[
+				"keyfigure_comparison.pt",
+				"enercoach/enercoach/templates/reports/keyfigure_comparison.pt"
+			],
+			[
+				"constant",
+				"enercoach/enercoach/constants.py"
+			],
+			[
+				"setup",
+				"enercoach/setup.py"
+			],
+			[
+				"enercoach",
+				"scripts/enercoach-import.py"
+			],
+			[
+				"cach",
+				"enercoach/enercoach/services/cache.py"
+			],
+			[
+				"conta",
+				"enercoach/enercoach/templates/contact.pt"
+			],
+			[
+				"forms/obje",
+				"enercoach/enercoach/forms/objectzone.py"
+			],
+			[
+				"form.p",
+				"enercoach/src/kotti/kotti/views/form.py"
+			],
+			[
+				"eeashared/views/bas",
+				"enercoach/src/eeashared/eeashared/views/base.py"
+			],
+			[
+				"lightbox-submitaction-enercoach.js",
+				"enercoach/enercoach/static/js/lightbox-submitaction-enercoach.js"
+			],
+			[
+				"lightbox-contro",
+				"enercoach/src/eeashared/eeashared/static/js/lightbox-controller.js"
+			],
+			[
+				"base",
+				"enercoach/enercoach/forms/base.py"
+			],
+			[
+				"fix",
+				"enercoach/enercoach/services/tests/report_fixtures.py"
+			],
+			[
+				"keyfig",
+				"enercoach/enercoach/resources/reports/keyfigures.py"
+			],
+			[
+				"objectzone",
+				"enercoach/enercoach/forms/objectzone.py"
+			],
+			[
+				"object.",
+				"enercoach/enercoach/resources/object.py"
+			],
+			[
+				"keyfigure",
+				"enercoach/enercoach/resources/reports/keyfigures.py"
+			],
+			[
+				"webdriver.",
+				"enercoach/lib/python2.7/site-packages/selenium/webdriver/phantomjs/webdriver.py"
+			],
+			[
+				"impo",
+				"scripts/enercoach-import.py"
+			],
+			[
+				"keyfigures.pt",
+				"enercoach/enercoach/templates/reports/keyfigures.pt"
+			],
+			[
+				"security",
+				"enercoach/src/kotti/kotti/security.py"
+			],
+			[
+				"user.p",
+				"enercoach/src/eeashared/eeashared/views/user.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "enr",
+		"selected_items":
+		[
+			[
+				"enr",
+				"~/projects/enercoach/EnerCoach.sublime-project"
+			],
+			[
+				"ee",
+				"~/projects/eea/eea.sublime-project"
+			],
+			[
+				"eea",
+				"~/projects/eea/eea.sublime-project"
+			],
+			[
+				"",
+				"~/projects/eea/eea.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 404.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 374.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 5
+	}
+}
