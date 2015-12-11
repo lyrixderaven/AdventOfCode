@@ -1,6 +1,6 @@
-from inputs import NINTH
+from inputs import EIGHTH
 
-inputstring = NINTH.inputstring
+inputstring = EIGHTH.inputstring
 
 total_len = 0
 enct_len = 0

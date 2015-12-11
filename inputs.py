@@ -1,5 +1,5 @@
 
-class NINTH:
+class EIGHTH:
     inputstring = [
         [u'azlgxdbljwygyttzkfwuxv',r'azlgxdbljwygyttzkfwuxv',r'azlgxdbljwygyttzkfwuxv',],
         [u'v\xfb\"lgs\"kvjfywmut\x9cr',r'v\xfb\"lgs\"kvjfywmut\x9cr',r'v##xfb####lgs####kvjfywmut##x9cr',],
@@ -303,7 +303,7 @@ class NINTH:
         [u'\\zrs\\syur',r'\\zrs\\syur',r'####zrs####syur',],
     ]
 
-class TENTH:
+class NINTH:
     distances = [
         ['Faerun','Tristram',65],
         ['Faerun','Tambi',129],
@@ -334,3 +334,6 @@ class TENTH:
         ['Straylight','Arbre',14],
         ['AlphaCentauri','Arbre',46],
     ]
+
+class TENTH:
+    input = '3113322113'
