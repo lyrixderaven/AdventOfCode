@@ -337,3 +337,6 @@ class NINTH:
 
 class TENTH:
     input = '3113322113'
+
+class ELEVENTH:
+    input = 'cqjxjnds'
