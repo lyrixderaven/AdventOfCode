@@ -839,3 +839,98 @@ class TWENTYFIRST:
             'Defense +3':   [80,     0,       3],
         }
     }
+
+class TWENTYSECOND:
+    HP = 58
+    DMG = 9
+    ARMOR = 0
+    SPELLS = {
+        'Recharge': {
+            'mana':229,
+            'turns': 5,
+            'managain': 101
+        },
+        'Drain': {
+            'mana':73,
+            'damage': 2,
+            'heal': 2,
+        },
+        'Shield': {
+            'mana':113,
+            'turns': 6,
+            'armor': 7,
+        },
+        'Poison': {
+            'mana':173,
+            'damage': 3,
+            'turns': 6,
+        },
+        'Magic Missile': {
+            'mana': 53,
+            'damage': 4,
+        },
+    }
+
+class TWENTYTHIRD:
+    instructions = [
+    ['jio', 'a', +22],
+    ['inc', 'a', None,],
+    ['tpl', 'a', None,],
+    ['tpl', 'a', None,],
+    ['tpl', 'a', None,],
+    ['inc', 'a', None,],
+    ['tpl', 'a', None,],
+    ['inc', 'a', None,],
+    ['tpl', 'a', None,],
+    ['inc', 'a', None,],
+    ['inc', 'a', None,],
+    ['tpl', 'a', None,],
+    ['inc', 'a', None,],
+    ['inc', 'a', None,],
+    ['tpl', 'a', None,],
+    ['inc', 'a', None,],
+    ['inc', 'a', None,],
+    ['tpl', 'a', None,],
+    ['inc', 'a', None,],
+    ['inc', 'a', None,],
+    ['tpl', 'a', None,],
+    ['jmp', '+19', None,],
+    ['tpl', 'a', None,],
+    ['tpl', 'a', None,],
+    ['tpl', 'a', None,],
+    ['tpl', 'a', None,],
+    ['inc', 'a', None,],
+    ['inc', 'a', None,],
+    ['tpl', 'a', None,],
+    ['inc', 'a', None,],
+    ['tpl', 'a', None,],
+    ['inc', 'a', None,],
+    ['inc', 'a', None,],
+    ['tpl', 'a', None,],
+    ['inc', 'a', None,],
+    ['inc', 'a', None,],
+    ['tpl', 'a', None,],
+    ['inc', 'a', None,],
+    ['tpl', 'a', None,],
+    ['tpl', 'a', None,],
+    ['jio', 'a', +8],
+    ['inc', 'b', None,],
+    ['jie', 'a', +4],
+    ['tpl', 'a', None,],
+    ['inc', 'a', None,],
+    ['jmp', '+2', None,],
+    ['hlf', 'a', None,],
+    ['jmp', '-7', None,],
+]
+
+class TWENTYFOURTH:
+    weights = [1,2,3,5,7,13,17,19,23,29,31,37,41,43,53,59,61,67,71,73,79,83,89,97,101,103,107,109,113]
+
+class TWENTYFIFTH:
+    first = 20151125
+    row = 2978
+    col = 3083
+
+
+
+
