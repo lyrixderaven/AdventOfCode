@@ -845,27 +845,27 @@ class TWENTYSECOND:
     DMG = 9
     ARMOR = 0
     SPELLS = {
-        'Recharge': {
-            'mana':229,
+        'R': {
+            'mana': 229,
             'turns': 5,
             'managain': 101
         },
-        'Drain': {
+        'D': {
             'mana':73,
             'damage': 2,
             'heal': 2,
         },
-        'Shield': {
+        'S': {
             'mana':113,
             'turns': 6,
             'armor': 7,
         },
-        'Poison': {
+        'P': {
             'mana':173,
             'damage': 3,
             'turns': 6,
         },
-        'Magic Missile': {
+        'M': {
             'mana': 53,
             'damage': 4,
         },
